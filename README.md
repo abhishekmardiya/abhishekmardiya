@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  
- <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="mardiyaabhishek@gmail.com" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="mardiyaabhishek@gmail.com" target="blank"><img align="center" src="https://cdn.wccftech.com/wp-content/uploads/2020/09/Gmail.png" alt="mardiyaabhishek@gmail.com" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 
 </p>
