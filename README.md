@@ -5,9 +5,10 @@
  <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shuklabhisekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ 
+ <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="mardiyaabhishek@gmail.com" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-  <!-- <a href="https://medium.com/@shuklabhisekh" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="medium.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
 </p>
 
