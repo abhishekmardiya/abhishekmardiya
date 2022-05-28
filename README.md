@@ -3,16 +3,10 @@
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN Stack</h3>
 <br>
  <h2 align="left">☕ Let's Connect</h2>
-<p align="center">
+
 
 <a href="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  
- <a href="mardiyaabhishek@gmail.com" target="blank"><img align="center" src="https://cdn.wccftech.com/wp-content/uploads/2020/09/Gmail.png" alt="mardiyaabhishek@gmail.com" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-
-
-</p>
-
-
 
 <br/>
 
