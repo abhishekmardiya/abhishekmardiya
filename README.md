@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="center" width= "50%"  /> 
 </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Abhishek Mardiya </h1>
-<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN Stack</h3>
+<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.
+</h3>
 <br>
  <h2 align="left">☕ Let's Connect</h2>
 
