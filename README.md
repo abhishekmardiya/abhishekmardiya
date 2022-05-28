@@ -2,17 +2,15 @@
 </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Abhishek Mardiya </h1>
 <h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN Stack</h3>
 <br>
- 🙋 About Me
+ <h2 align="left">☕ Let's Connect</h2>
+<p align="center">
 
-- 🔭 I’m currently working on **[React JS]("")**
+<a href="https://www.linkedin.com/in/shuklabhisekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-- 🌱 I’m currently learning **[React.js]()**
+  <!-- <a href="https://medium.com/@shuklabhisekh" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="medium.com/in/shuklabhisekh/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+</p>
 
-- 📫 How to reach me **mardiyaabhishek@gmail.com**
-
-- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/abhishek-mardiya-2a82a3147)**
 
 
 <br/>
