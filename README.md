@@ -7,6 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-mardiya-2a82a3147/" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://medium.com/@mardiyaabhishek" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-1.png" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  
 
 <br/>
